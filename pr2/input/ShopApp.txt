@@ -1,0 +1,44 @@
+1
+ASUS
+VivoBook 15
+Intel Core i5-1235U
+10
+4.4
+16
+DDR4
+15.6
+1920x1080
+65990
+1
+Apple
+MacBook Air M2
+Apple M2
+8
+3.5
+8
+LPDDR5
+13.6
+2560x1664
+109990
+1
+lenovo
+IdeaPad Gaming 3
+AMD Ryzen 5 6600H
+6
+4.5
+16
+DDR5
+15.6
+1920x1080
+79990
+1
+Samsung
+2
+4
+-
+16
+80000
+3
+2
+2
+0
